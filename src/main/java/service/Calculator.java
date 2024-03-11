@@ -1,4 +1,4 @@
-package mainifest;
+package service;
 
 /**
  * <p></p>
@@ -9,6 +9,6 @@ package mainifest;
  */
 public class Calculator {
     public double add(double number1,double number2) {
-        return number1 + number2 + 1;
+        return number1 + number2 + 0.1000000000000000;
     }
 }
