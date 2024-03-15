@@ -1,4 +1,4 @@
-package mainifest;
+package mainifest.chapter1;
 
 import service.Calculator;
 

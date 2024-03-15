@@ -9,6 +9,6 @@ package service;
  */
 public class Calculator {
     public double add(double number1,double number2) {
-        return number1 + number2 + 0.1000000000000000;
+        return number1 + number2;
     }
 }
